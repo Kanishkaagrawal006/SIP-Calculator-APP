@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name ="About_pages">About the pages </string>
+    <string name="About_us">This a app to the return of your future investment </string>
+    <string name ="US">the is first app</string>
+    <string name ="WEL">WELCOME TO SMARTRETURNS!</string>
+    <string name ="cal">Start growing your wealth today…</string>
+    <string name ="but">START</string>
+    <string name ="t">Calculate</string>
+    <string name = "s">Monthly Investment</string>
+    <string name ="v">SIP Calculator</string>
+    <string name="k">Lumpsum</string>
+    <string name ="p">Expected returns</string>
+    <string name ="u">Time period</string>
+    <string name="l">Invested amount</string>
+    <string name ="r">Returned Amount</string>
+    <string name ="e">Total amount </string>
+    <string name="qw">Enter the expected return </string>
+    <string name ="we">Enter the monthly investment</string>
+    <string name ="op"> Enter the time period</string>
+
+</resources>
